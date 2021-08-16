@@ -30,7 +30,7 @@ Attach folder action to /Users/Shared/PDFwriter/<your user name>
 
 And move finders itmes to Desktop
 
-(https://raw.githubusercontent.com/joshuascottpaul/RWTS-PDFwriter/blob/master/Screen%20Shot%202021-08-15%20at%207.21.42%20PM.jpg  "Click to download installer pkg")
+(https://raw.githubusercontent.com/joshuascottpaul/RWTS-PDFwriter/master/Screen%20Shot%202021-08-15%20at%207.21.42%20PM.jpg  "Click to download installer pkg")
   
 
 ## Removal instructions

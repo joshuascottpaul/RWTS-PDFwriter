@@ -22,6 +22,14 @@ The “printed” PDF files produced will be stored in the directory
 
 For convenient access to this folder, simply drag it to the right hand end of your dock.
 
+## Update
+
+Use Automator Folder Action to automatically move to Desktop
+
+Attach folder action to /Users/Shared/PDFwriter/<your user name>
+
+And move finders itmes to Desktop
+
 ## Removal instructions
 If you want to uninstall **PDFwriter**, open Terminal.app, type 
 

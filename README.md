@@ -26,6 +26,8 @@ For convenient access to this folder, simply drag it to the right hand end of yo
 
 Use Automator Folder Action to automatically move to Desktop
 
+`   PDFwriter to Desktop.workflow.zip   `
+
 Attach folder action to /Users/Shared/PDFwriter/<your user name>
 
 And move finders itmes to Desktop
